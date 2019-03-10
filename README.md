@@ -1,2 +1,2 @@
-# result_calculator
-calculate your marks  by just entering the number in the five subject
+# Result_Calculator
+Calculate your marks  by just entering the number in the five subject
